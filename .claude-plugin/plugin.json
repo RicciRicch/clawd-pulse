@@ -1,0 +1,20 @@
+{
+  "name": "clawd-pulse",
+  "version": "0.1.0",
+  "author": {
+    "name": "RicciRicch",
+    "url": "https://github.com/RicciRicch"
+  },
+  "description": "A live dashboard pane: your running sessions, 5-hour and weekly limits, and Clawd, whose mood follows them.",
+  "types": "./types/index.d.ts",
+  "homepage": "https://github.com/RicciRicch/clawd-pulse",
+  "repository": "https://github.com/RicciRicch/clawd-pulse",
+  "license": "MIT",
+  "keywords": [
+    "dashboard",
+    "usage",
+    "rate-limits",
+    "sessions",
+    "mascot"
+  ]
+}

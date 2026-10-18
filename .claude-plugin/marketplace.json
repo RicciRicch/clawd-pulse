@@ -1,0 +1,16 @@
+{
+  "name": "clawd-mods",
+  "owner": {
+    "name": "RicciRicch"
+  },
+  "plugins": [
+    {
+      "name": "clawd-pulse",
+      "source": "./",
+      "description": "Live dashboard pane: running sessions, 5-hour and weekly limits, and Clawd, whose mood follows them."
+    }
+  ],
+  "metadata": {
+    "description": "Clawd Pulse: a live usage and sessions dashboard for Claude Code, with Clawd."
+  }
+}
